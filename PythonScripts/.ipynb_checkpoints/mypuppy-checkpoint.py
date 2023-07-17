@@ -1,4 +1,5 @@
 import cv2 
+import pandas as pd
 
 img = cv2.imread('Computer-Vision-with-Python/DATA/00-puppy.jpg')
 
@@ -12,3 +13,4 @@ while True:
         break
 
 cv2.destroyAllWindows()
+pd.
